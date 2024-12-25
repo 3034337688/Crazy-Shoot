@@ -2,7 +2,7 @@
 
 欢迎来到 **Crazy Shoot**，这是一款基于 Unity 和 C# 开发的肾上腺素飙升的 2D 射击游戏！准备好进入一个充满激烈战斗、策略性玩法和无尽乐趣的世界吧！无论你是资深玩家还是休闲玩家，Crazy Shoot 都会让你欲罢不能！
 
-![游戏截图](![image](https://github.com/user-attachments/assets/10b2329d-418f-4d4b-ac79-8f6628ac6df9)
+![游戏截图](img_v3_02ht_a27b02d1-c077-4fb2-abfd-7910dbacb9hu.jpg)
 ) *(请替换为实际截图)*
 
 ## 🚀 功能亮点
